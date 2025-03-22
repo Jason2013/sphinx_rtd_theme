@@ -8,13 +8,7 @@ used with projects on `Read the Docs`_ but can work with any Sphinx project.
 .. _Sphinx: http://www.sphinx-doc.org
 .. _Read the Docs: http://www.readthedocs.org
 
-.. toctree::
-   :caption: My TOC
-   :includehidden:
-
-
-Using this theme
-----------------
+**Using this theme**
 
 :doc:`installing`
     How to install this theme on your Sphinx project.
@@ -28,8 +22,7 @@ Using this theme
 :ref:`supported-dependencies`
     Supported project dependencies, like Python and Sphinx.
 
-Development
------------
+**Development**
 
 :doc:`contributing`
     How to contribute changes to the theme.
