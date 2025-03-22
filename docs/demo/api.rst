@@ -147,6 +147,6 @@ sphinx.ext.autosummary
 
 .. autosummary::
 
-    test_py_module.test.add_numbers
-    test_py_module.test.subtract_numbers
-    test_py_module.test.Foo
+    add_numbers
+    subtract_numbers
+    Foo
