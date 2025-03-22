@@ -61,7 +61,7 @@ html_context = {
     "github_user": "Jason2013", # Username
     "github_repo": "sphinx_rtd_theme", # Repo name
     "github_version": "master", # Version
-    "conf_py_path": "/source/", # Path in the checkout to the docs root
+    "conf_py_path": "/docs/", # Path in the checkout to the docs root
 }
 
 if not 'READTHEDOCS' in os.environ:
