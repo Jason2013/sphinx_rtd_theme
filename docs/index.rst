@@ -71,7 +71,6 @@ Development
     :hidden:
 
     demo/structure
-    demo/demo
     demo/lists_tables
     demo/api
 
